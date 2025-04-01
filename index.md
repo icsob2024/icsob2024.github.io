@@ -23,7 +23,7 @@ We are delighted to invite you to contribute to the 15th International Conferenc
 
 <hr>
 
-We are pleased to announce that 23 full papers and 13 short papers have been accepted and published in LNBIP 539. For more details, please visit the <b><a href="http://link.springer.com/openurl.asp?genre=issue&issn=1865-1348&volume=539" target="_blank">SpringerLink</a></b>.
+<b><span style="color:#a90808;">We are pleased to announce that 23 full papers and 13 short papers have been accepted and published in LNBIP 539. For more details, please visit the <b><a href="http://link.springer.com/openurl.asp?genre=issue&issn=1865-1348&volume=539" target="_blank">SpringerLink</a></b></span></b>.
 
 <hr>
 

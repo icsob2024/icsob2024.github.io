@@ -23,6 +23,10 @@ We are delighted to invite you to contribute to the 15th International Conferenc
 
 <hr>
 
+We are pleased to announce that 23 full papers and 13 short papers have been accepted and published in LNBIP 539. For more details, please visit the <b><a href="http://link.springer.com/openurl.asp?genre=issue&issn=1865-1348&volume=539" target="_blank">SpringerLink</a></b>.
+
+<hr>
+
 <b style="text-align: center;">Conference Theme: Ethics, Equity, and Sustainability in Software Business </b>
 
 The International Conference on Software Business (ICSOB) 2024 aims to redefine the software industry’s future through a scientific lens, focusing on ethics, equity, and sustainability. As digital transformation becomes ubiquitous, integrating these principles into software development and business strategies is crucial for fostering social justice, human rights, and democracy. ICSOB 2024 invites interdisciplinary collaboration among researchers, practitioners, and policymakers to address ethical challenges, promote inclusivity, and ensure sustainable practices in the software sector. Key areas of exploration include ethical considerations in software product management, the role of emerging technologies like Blockchain and Generative AI in shaping ethical frameworks, and the implementation of sustainability metrics within software ecosystems. The conference will emphasize the development of transparent, trustworthy software business models that champion diversity and equity. Through scientific inquiry, case studies, and workshops, ICSOB 2024 seeks to catalyze innovation at the nexus of ethics, equity, and sustainability, contributing to a software business paradigm that prioritizes long-term ecological and social well-being. This gathering will serve as a platform for generating actionable insights and fostering a software industry that is not only technologically advanced but also ethically responsible and inclusive.
